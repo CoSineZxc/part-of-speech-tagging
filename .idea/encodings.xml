@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/data/199801.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data/TestInput.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data/TestOutput.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data/TestSetInput.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data/TestSetRslt.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data/test.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data/test2.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data/test3.txt" charset="GBK" />
+  </component>
+</project>
